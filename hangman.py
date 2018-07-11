@@ -5,7 +5,7 @@ def winner(players=('Amy', 'Bill', 'Cathy', 'Dale')):
 
     winner = random.choice(players) 
 
-    ####
+    ####Modified
     # Summarize the following section of code here
     ####
     print('Guess which of these people won the lottery: ',end='')
